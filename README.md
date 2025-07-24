@@ -1,5 +1,7 @@
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=8000&pause=1000&color=0EF71B&width=435&lines=Valentino+Martin"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 <h2>👨🏻‍💻 &nbsp;Acerca de Mí</h2>
 🎓  Actualmente estudio Licenciatura en Sistemas de Información en la Universidad Autónoma de Entre Ríos.<br>
 🌱  Completé el curso dedicado a Desarrollo Web Full Stack dictado en Digital House, y continúo ampliando mi conocimiento sobre desarrollo web.
